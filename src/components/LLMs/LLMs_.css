@@ -1,0 +1,22 @@
+.LLM_panel{
+    display: flex;
+    justify-content: start;
+    margin-bottom: 15px;
+    border:1px solid black;
+    border-radius: 6px;
+    padding:6px;
+}
+.designing{
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    font-size: 14px;
+    width:95%;
+    display: flex;
+    justify-content: space-between;
+}
+#LLMs{
+    border:none;
+    background-color:white;
+}

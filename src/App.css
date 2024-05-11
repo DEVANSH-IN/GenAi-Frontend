@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+.parent{
+    
+    display:flex;
+    flex-direction: column;
+    
+}
+.sub_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+}
+.myStacks{
+    width: 114px;
+    top: 89px;
+    left: 51px;
+    gap: 0px;
+    opacity: 0px;
+    height: 28px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    font-size: 24px;
+
+}
+hr {
+    width: 100%; /* Set the width to 100% */
+    height:.35px;
+    border:none;
+    background-color:#E4E8EE;
+}

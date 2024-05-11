@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+img{
+    height:23px;
+    width:23px;
+    margin-right:10px;
+}
+.agent_parent{
+    margin-bottom: 15px;
+    font-family: Inter;
+    border:1px solid rgb(186, 186, 186);
+    border-radius: 4px;
+    padding:6px;
+    display :flex;
+    align-items: center;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    font-size: 14px;
+
+}
+#agents{
+    border:none;
+    background-color: rgb(255, 255, 255);
+}
+.agent_panel{
+    display:flex;
+    justify-content: space-between;
+    width:95%;
+}

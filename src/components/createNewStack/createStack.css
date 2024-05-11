@@ -1,0 +1,26 @@
+.New_Stack{
+    max-width:124px;
+    max-height:40px;
+    padding: 9px 9px 9px 9px;
+    gap: 10px;
+    border-radius: 8px 8px 8px 8px;
+    background-color:#44924C;
+    
+   
+
+}
+.text{
+    display: inline;
+    margin: auto;
+    width: 71px;
+    gap: 0px;
+    opacity: 0px;
+    height: 17px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 16.94px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    font-size: 14px;
+    color:rgb(255, 255, 255);
+}
